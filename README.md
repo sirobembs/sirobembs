@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirobembs
+- 👋 Hi, I’m Daniel Obembe
 - 👀 I’m interested in Media and Tech
 - 🌱 I’m currently learning Software engineering and Web development
 - 💞️ I’m looking to collaborate on Front end development
