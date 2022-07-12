@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Daniel Obembe
+# 👋 Hi, I’m Daniel Obembe
 - 👀 I’m interested in Media and Tech
-- 🌱 I’m currently learning Software engineering and Web development
+- 🌱 I’m currently learning Software engineering and Full Stack Web development
 - 💞️ I’m looking to collaborate on Front end development
-- 📫 How to reach me daniel obembe on linkden
+- 📫 How to reach me: daniel obembe on linkden
 
 <!---
 sirobembs/sirobembs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
